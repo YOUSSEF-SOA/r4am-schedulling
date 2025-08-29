@@ -112,7 +112,10 @@ Grâce à Gymnasium, l’environnement est :
 ---
 
 ## Utilisation <a id="utilisation"></a>
-
+Prérequis
+- Python 3.11
+- pip installé
+- (Optionnel mais recommandé) Créer un environnement virtuel pour isoler les dépendances
 ### 1. Installation des dépendances  
 Clonez le dépôt et installez les bibliothèques nécessaires :  
 ```python
